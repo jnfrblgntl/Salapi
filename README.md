@@ -22,4 +22,4 @@
 Proprietary. Free.
 
 ---
-<img width="2586" height="2160" alt="Frame@2160p (2)" src="https://github.com/user-attachments/assets/1636bb4e-65ee-426b-bace-fe3acde9b313" />
+<img width="900" height="2160" alt="Frame@2160p (2)" src="https://github.com/user-attachments/assets/1636bb4e-65ee-426b-bace-fe3acde9b313" />
