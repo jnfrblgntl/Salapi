@@ -23,5 +23,5 @@ Proprietary. Free.
 
 ---
 <p align="center">
-<img width="900" height="720" alt="Frame@2160p (2)" src="https://github.com/user-attachments/assets/1636bb4e-65ee-426b-bace-fe3acde9b313" />
+<img width="1080" height="720" alt="Frame@2160p (2)" src="https://github.com/user-attachments/assets/1636bb4e-65ee-426b-bace-fe3acde9b313" />
 </p>
