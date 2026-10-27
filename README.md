@@ -15,7 +15,7 @@
   </p>
 </div>
 
-Proprietary. Free.
+Open-Source. Free.
 
 ---
 
