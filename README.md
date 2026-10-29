@@ -50,8 +50,10 @@
 
 </div>
 
----
-
 <div align="center">
   <h1>License</h1>
 </div>
+
+<p align="center">
+  This project is licensed under the MIT license. See [License](LICENSE.md)
+</p>
