@@ -15,10 +15,6 @@
   </p>
 </div>
 
-<div align="center">
-  Open-Source. Free.
-</div>
-
 > [!IMPORTANT]
 > Salapi is only a private software used and managed by Junifer Bilagantol. It is not accessible to the public.
 
