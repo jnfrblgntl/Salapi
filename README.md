@@ -27,6 +27,7 @@
   <h1><a id="features"></a>Features</h1>
 <div/>
 
+<div align="left">
 #### Tracking
 - **Log, search and track** anything — income or expense — in seconds.
 - **Accurate math** — amounts always stored in PHP (single source of truth), source currency + amount as typed, conversion-aware.
@@ -45,6 +46,5 @@
 #### Controls & Tweaks
 - **Per-user preferences** — hide amounts, filter by type, date ranges (this month / last month / all).
 - **Reminders** — recurring transaction notifications.
-
 
 </div>
