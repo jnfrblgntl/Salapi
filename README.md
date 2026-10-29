@@ -28,6 +28,7 @@
 <div/>
 
 <div align="left">
+  
 #### Tracking
 - **Log, search and track** anything — income or expense — in seconds.
 - **Accurate math** — amounts always stored in PHP (single source of truth), source currency + amount as typed, conversion-aware.
