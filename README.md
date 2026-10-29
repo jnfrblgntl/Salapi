@@ -20,22 +20,6 @@
 
 ---
 <p align="center">
-<img width="100%" style="height: auto;" alt="Frame@2160p (9)" src="https://github.com/user-attachments/assets/e8855314-8d05-47d1-8682-db3c3ce0d745" />
+  <img width="100%" style="height: auto;" alt="Frame@2160p (9)" src="https://github.com/user-attachments/assets/e8855314-8d05-47d1-8682-db3c3ce0d745" />
 </p>
-
-<h1><a id="features"></a>Features</h1>
-
----
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-
-
-    </td>
-  </tr>
-</table>
-
-</div>
 
