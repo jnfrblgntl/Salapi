@@ -21,5 +21,5 @@
 ---
 
 <p align="center">
-<img width="720" height="618" alt="Frame@2160p (2)" src="https://github.com/user-attachments/assets/1636bb4e-65ee-426b-bace-fe3acde9b313" />
+<img alt="Frame@2160p (2)" src="https://github.com/user-attachments/assets/1636bb4e-65ee-426b-bace-fe3acde9b313" width="100%"/>
 </p>
