@@ -15,7 +15,9 @@
   </p>
 </div>
 
-Open-Source. Free.
+<div align="center">
+  Open-Source. Free.
+</div>
 
 ---
 
