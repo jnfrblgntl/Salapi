@@ -27,28 +27,10 @@
   <h1><a id="features"></a>Features</h1>
 <div/>
 
-<div align="left">
-  
-#### Tracking
-- **Log, search and track** anything — income or expense — in seconds.
-- **Accurate math** — amounts always stored in PHP (single source of truth), source currency + amount as typed, conversion-aware.
-- **Zero drift** — balances and totals computed exactly, no rounding errors.
-- **Recurring engine** — daily/weekly/monthly rules with next-due scheduling, pause/stop, end dates.
-- **Offline-first** — full history persisted locally in IndexedDB.
+|  |  |
+|---|---|
+| **Tracking**<br>- **Log, search and track** anything — income or expense — in seconds.<br>- **Accurate math** — amounts always stored in PHP (single source of truth), source currency + amount as typed, conversion-aware.<br>- **Zero drift** — balances and totals computed exactly, no rounding errors.<br>- **Recurring engine** — daily/weekly/monthly rules with next-due scheduling, pause/stop, end dates.<br>- **Offline-first** — full history persisted locally in IndexedDB.<br><br>**Data & Insights**<br>- **Local-first data** — everything saved on-device.<br>- **CSV import & export** — bring in history, export to CSV / paper-friendly format. | **Experience**<br>- **Animated analytics** — balance area charts, category donut, income vs. spend divergence.<br>- **Reason-based insights** — spend breakdowns by category.<br><br>**Controls & Tweaks**<br>- **Per-user preferences** — hide amounts, filter by type, date ranges (this month / last month / all).<br>- **Reminders** — recurring transaction notifications. |
 
-#### Data & Insights
-- **Local-first data** — everything saved on-device.
-- **CSV import & export** — bring in history, export to CSV / paper-friendly format.
-
-#### Experience
-- **Animated analytics** — balance area charts, category donut, income vs. spend divergence.
-- **Reason-based insights** — spend breakdowns by category.
-
-#### Controls & Tweaks
-- **Per-user preferences** — hide amounts, filter by type, date ranges (this month / last month / all).
-- **Reminders** — recurring transaction notifications.
-
-</div>
 
 <div align="center">
   <h1>License</h1>
