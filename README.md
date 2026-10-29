@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
 
 #### Tracking
 - **Log, search and track** anything — income or expense — in seconds.
