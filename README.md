@@ -55,5 +55,5 @@
 </div>
 
 <p align="center">
-  This project is licensed under the MIT license. See [License](LICENSE.md)
+  Licensed under the <a href="LICENSE.md">MIT License</a>
 </p>
