@@ -49,3 +49,9 @@
 - **Reminders** — recurring transaction notifications.
 
 </div>
+
+---
+
+<div align="center">
+  <h1>License</h1>
+</div>
