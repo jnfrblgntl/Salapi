@@ -20,7 +20,7 @@
 
 ---
 <p align="center">
-  <img width="100%" style="height: auto;" alt="Frame@2160p (12)" src="https://github.com/user-attachments/assets/2fcb90c9-a3ba-4f46-b102-b02e683709b2" />
+  <img width="100%" style="height: auto;" alt="Frame@2160p (13)" src="https://github.com/user-attachments/assets/a330bf2e-1a81-411b-bfae-7ce0f148a443" />
 </p>
 
 <div align="center">
