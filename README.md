@@ -20,6 +20,38 @@
 
 ---
 <p align="center">
-  <img width="100%" style="height: auto;" alt="Frame@2160p (9)" src="https://github.com/user-attachments/assets/e8855314-8d05-47d1-8682-db3c3ce0d745" />
+  <img width="100%" style="height: auto;" alt="Frame@2160p (12)" src="https://github.com/user-attachments/assets/2fcb90c9-a3ba-4f46-b102-b02e683709b2" />
 </p>
 
+<div align="center">
+  <h1><a id="features"></a>Features</h1>
+<div/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### Tracking
+- **Log, search and track** anything — income or expense — in seconds.
+- **Accurate math** — amounts always stored in PHP (single source of truth), source currency + amount as typed, conversion-aware.
+- **Zero drift** — balances and totals computed exactly, no rounding errors.
+- **Recurring engine** — daily/weekly/monthly rules with next-due scheduling, pause/stop, end dates.
+- **Offline-first** — full history persisted locally in IndexedDB.
+
+#### Data & Insights
+- **Local-first data** — everything saved on-device.
+- **CSV import & export** — bring in history, export to CSV / paper-friendly format.
+
+#### Experience
+- **Animated analytics** — balance area charts, category donut, income vs. spend divergence.
+- **Reason-based insights** — spend breakdowns by category.
+
+#### Controls & Tweaks
+- **Per-user preferences** — hide amounts, filter by type, date ranges (this month / last month / all).
+- **Reminders** — recurring transaction notifications.
+
+     </td>
+  </tr>
+</table>
+
+</div>
