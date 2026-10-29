@@ -19,6 +19,9 @@
 > Salapi is only a private software used and managed by Junifer Bilagantol. It is not accessible to the public.
 
 ---
+<p align="center">
+<img width="100%" style="height:auto;" alt="Frame@2160p (8)" src="https://github.com/user-attachments/assets/011c54d8-65e8-496b-a7f7-d8ec7e12d3b7" />
+</p>
 
 <p align="center">
 <img
@@ -28,6 +31,4 @@
   style="height: auto;"
 />
 </p>
-<p align="center">
-<img width="100%" style="height: auto;" alt="Frame@2160p (7)" src="https://github.com/user-attachments/assets/d8a78841-0cb2-4cfa-ad0c-19cc0cbd4c7e" />
-</p>
+
