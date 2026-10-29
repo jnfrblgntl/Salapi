@@ -27,9 +27,9 @@
   <h1><a id="features"></a>Features</h1>
 <div/>
 
-|  |  |
+| Tracking & Data | Experience & Controls |
 |---|---|
-| **Tracking**<br>- **Log, search and track** anything — income or expense — in seconds.<br>- **Accurate math** — amounts always stored in PHP (single source of truth), source currency + amount as typed, conversion-aware.<br>- **Zero drift** — balances and totals computed exactly, no rounding errors.<br>- **Recurring engine** — daily/weekly/monthly rules with next-due scheduling, pause/stop, end dates.<br>- **Offline-first** — full history persisted locally in IndexedDB.<br><br>**Data & Insights**<br>- **Local-first data** — everything saved on-device.<br>- **CSV import & export** — bring in history, export to CSV / paper-friendly format. | **Experience**<br>- **Animated analytics** — balance area charts, category donut, income vs. spend divergence.<br>- **Reason-based insights** — spend breakdowns by category.<br><br>**Controls & Tweaks**<br>- **Per-user preferences** — hide amounts, filter by type, date ranges (this month / last month / all).<br>- **Reminders** — recurring transaction notifications. |
+| **Tracking**<br><ul><li>**Log, search and track** anything — income or expense — in seconds.</li><li>**Accurate math** — amounts always stored in PHP (single source of truth), source currency + amount as typed, conversion-aware.</li><li>**Zero drift** — balances and totals computed exactly, no rounding errors.</li><li>**Recurring engine** — daily/weekly/monthly rules with next-due scheduling, pause/stop, end dates.</li><li>**Offline-first** — full history persisted locally in IndexedDB.</li></ul><br><br>**Data & Insights**<br><ul><li>**Local-first data** — everything saved on-device.</li><li>**CSV import & export** — bring in history, export to CSV / paper-friendly format.</li></ul> | **Experience**<br><ul><li>**Animated analytics** — balance area charts, category donut, income vs. spend divergence.</li><li>**Reason-based insights** — spend breakdowns by category.</li></ul><br><br>**Controls & Tweaks**<br><ul><li>**Per-user preferences** — hide amounts, filter by type, date ranges (this month / last month / all).</li><li>**Reminders** — recurring transaction notifications.</li></ul> |
 
 
 <div align="center">
